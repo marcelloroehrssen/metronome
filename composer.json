@@ -1,0 +1,17 @@
+{
+    "name": "mroehrssen/metronome",
+    "description": "Utility for real test automatic generation",
+    "type": "library",
+    "license": "creative common",
+    "authors": [
+        {
+            "name": "marcelloroehrssen",
+            "email": "marcello.roehrssen@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "symfony/property-info": "^4.2",
+        "nikic/php-parser": "^4.1"
+    }
+}
